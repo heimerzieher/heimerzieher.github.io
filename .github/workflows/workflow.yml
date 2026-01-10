@@ -17,7 +17,7 @@ jobs:
         run: |
           sudo apt update && sudo apt install -y php
           mkdir -pv build
-          for i in index reserarch teaching
+          for i in index research teaching
           do
               php ${i}.php > build/${i}.html
           done
