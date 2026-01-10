@@ -11,7 +11,7 @@
                                 <a class="nav-link<?php if($selected == $id) { ?> active<?php } ?>" aria-current="page" href="<?php echo $id; ?>"><?php echo $text; ?></a>
                             </li>
                             <?php } ?>
-                            <?php makeLink('index.html', 'Home'); ?>
+                            <?php makeLink('index.html', 'About'); ?>
                             <?php makeLink('research.html', 'Research'); ?>
                             <?php makeLink('teaching.html', 'Teaching'); ?>
                             <?php /* makeLink('pdf/pdf-test.pdf', 'CV'); */ ?>

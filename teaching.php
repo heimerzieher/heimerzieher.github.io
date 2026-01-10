@@ -1,12 +1,12 @@
 <?php $selected = 'teaching'; include 'header.php';?>
 
-<h2>Co-Teacher:</h2>
+<h3>Co-Teacher:</h3>
 
 <p>“Basic Logic”, Fall and Winter 2025/26, Western University</p>
 
 <br>
 
-<h2>Teaching Assistant:</h2>
+<h3>Teaching Assistant</h3>
 
 <p>“Calculus II”, Summer 2025, Western University</p>
 
