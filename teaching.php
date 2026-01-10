@@ -1,24 +1,24 @@
 <?php $selected = 'teaching'; include 'header.php';?>
 
-<b>Co-Teacher:</b>
+<h2>Co-Teacher:</h2>
 
-“Basic Logic”, Fall and Winter 2025/26, Western University
+<p>“Basic Logic”, Fall and Winter 2025/26, Western University</p>
 
 <br>
 
-<b>Teaching Assistant:</b>
+<h2>Teaching Assistant:</h2>
 
-“Calculus II”, Summer 2025, Western University
+<p>“Calculus II”, Summer 2025, Western University</p>
 
-“Calculus I”, Winter 2025, Western University
+<p>“Calculus I”, Winter 2025, Western University</p>
 
-“Methods of Matrix Algebra”, Winter 2025, Western University
+<p>“Methods of Matrix Algebra”, Winter 2025, Western University</p>
 
-“Discrete Structures for Engineering”, Fall 2024, Western University
+<p>“Discrete Structures for Engineering”, Fall 2024, Western University</p>
 
-“Basic Logic”, Fall and Winter 2023/24, Western University
+<p>“Basic Logic”, Fall and Winter 2023/24, Western University</p>
 
-“Basic Logic”, Fall and Winter 2022/23, Western University
+<p>“Basic Logic”, Fall and Winter 2022/23, Western University</p>
 
 
 <?php include 'footer.php'; ?>
