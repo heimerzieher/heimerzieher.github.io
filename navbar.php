@@ -12,9 +12,9 @@
                             </li>
                             <?php } ?>
                             <?php makeLink('index.html', 'Home'); ?>
-                            <?php makeLink('mailto:abc@example.com', 'abc@example.com</a>'); ?>
-                            <?php makeLink('https://test.com', 'Test'); ?>
-                            <?php makeLink('pdf/pdf-test.pdf', 'CV'); ?>
+                            <?php makeLink('research.html', 'Research'); ?>
+                            <?php makeLink('teaching.html', 'Teaching'); ?>
+                            <?php /* makeLink('pdf/pdf-test.pdf', 'CV'); */ ?>
                             <?php /* makeLink('aoi', 'AOI'); ?>
                             <?php makeLink('email', 'EMAIL'); ?>
                             <?php makeLink('social', 'SOCIAL'); */?> 
