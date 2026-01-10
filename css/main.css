@@ -1,0 +1,50 @@
+body {
+    background-color: #d9d9d9;
+    font-family:  Palatino, URW Palladio L, serif;
+}
+#mainContainer {
+    margin-top: 7%;
+    background-color: #ffffff;
+}
+
+#pictureContainer {
+    max-width: 170px;
+    float:right;
+    margin-right: 7%;
+    margin-top: 10%;
+}
+
+@media (min-width: 576px) {
+#mainContainer {
+    max-width: 540px;
+}
+}
+
+@media (min-width: 768px) {
+#mainContainer {
+    max-width: 610px;
+}
+}
+
+@media (min-width: 992px) {
+#mainContainer {
+    max-width: 695x;
+}
+}
+
+@media (min-width: 1200px) {
+#mainContainer {
+    max-width: 720px;
+}
+}
+
+@media (min-width: 1400px) {
+#mainContainer {
+    max-width: 840px;
+}
+}
+
+.navbar
+{
+    background-color: #cdcbcb;
+}
