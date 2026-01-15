@@ -2,15 +2,8 @@ body {
     background-color: #d9d9d9;
 }
 #mainContainer {
-    margin-top: 5%;
+    /* margin-top: 7%; */
     background-color: #ffffff;
-}
-
-#pictureContainer {
-    max-width: 170px;
-    float:right;
-    margin-right: 7%;
-    margin-top: 10%;
 }
 
 @media (min-width: 576px) {
