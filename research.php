@@ -12,7 +12,7 @@
 
 <p>Elementary Infinity-Toposes from Type Theory, 32nd Foundational Methods in Computer Science Workshop, University of Ottawa, Ottawa, June 20, 2025</p>
 
-<p>Nominalism and Infinite Cardinality, ic.SoAP/EENPS, Belgrade and Geneva/Lugano, 2021</p>
+<p>Nominalism and Infinite Cardinality, ic.SoAP/EENPS, Belgrade and Geneva/Lugano (Online), 2021</p>
 
 <br>
 
