@@ -7,7 +7,7 @@
         
             <p>Currently, I am working on the interpretation and semantics of homotopy type theory (HoTT) in &infin;-categories. Part of my research is developing a semantic framework for HoTT in elementary &infin;-toposes.</p>
 
-            <p><a href="mpetrowi@uwo.ca">Email</a><br><a href="https://github.com/maxipetro">GitHub</a><br><a href="https://strava.app.link/LM98IZV7WZb">Strava</a></p>
+            <p><a href="mailto:mpetrowi@uwo.ca">Email</a><br><a href="https://github.com/maxipetro">GitHub</a><br><a href="https://strava.app.link/LM98IZV7WZb">Strava</a></p>
         </div>
         <div class="col-md-6 text-center">
             <img src="img/picture.jpg" class="img-fluid img-thumbnail" style="max-width: 250px;">
