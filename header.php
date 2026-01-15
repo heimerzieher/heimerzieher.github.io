@@ -14,6 +14,6 @@
 
         <?php }?>
 
-        <div class="container shadow-lg p-5 mt-3 mb-3 bg-white rounded" id="mainContainer">
+        <div class="container shadow-lg pl-5 pr-5 pt-1 pb-5 mt-3 mb-3 bg-white rounded" id="mainContainer">
             <h1>Maximilian Petrowitsch</h1>
             <?php include 'navbar.php';?>
