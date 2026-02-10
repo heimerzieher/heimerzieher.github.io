@@ -20,5 +20,10 @@
 
             <p>“Basic Logic”, Fall and Winter 2022/23, Western University</p>
 
+            <h4>Other teaching activities</h4>
+
+            <p>Supervisor for <a href="https://www.math.uwo.ca/undergraduate/current_students/directed_reading_program.html">Directed Reading Program</a> at Department of Mathematics, Western University,  Winter 2026. Topic: <i>The Yoneda Lemma</i>. Mentee: <i>Tongwen Li</i></p>
+
+
 
 <?php include 'footer.php'; ?>
